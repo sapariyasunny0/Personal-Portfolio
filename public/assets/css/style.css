@@ -167,8 +167,8 @@ body { background: #563b3b; }
 
 .sidebar,
 article {
-  background: repeating-linear-gradient(45deg, black, transparent 100px);
-  border: 1px solid var(--jet);
+  background: repeating-linear-gradient(45deg, black, #082b4f 100px);
+  border: 1px solid hsl(0deg 58.94% 62.76%);
   border-radius: 20px;
   padding: 15px;
   box-shadow: var(--shadow-1);
